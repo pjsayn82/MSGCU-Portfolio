@@ -1,2 +1,0 @@
-# MSGCU-Portfolio
-MSGCU Portfolio
